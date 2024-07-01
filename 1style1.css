@@ -1,0 +1,21 @@
+.box{
+    border: 2px solid red;
+    margin-top: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 1%;
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    background-color: cornflowerblue;
+
+}#btn1{
+    text-align: center;
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+
+
+}
